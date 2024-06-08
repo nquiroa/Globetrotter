@@ -10,8 +10,6 @@ Estimated time spent: 9 hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site][https://nquiroa.github.io/Discover-Providence-tour-guide/]
 
-https://nquiroa.github.io/Discover-Providence-tour-guide/
-
 ### Application Features
 
 #### CORE FEATURES
