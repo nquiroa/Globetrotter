@@ -66,7 +66,14 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 ### Walkthrough Video
 
 ```
-(<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2bf98fe1b5ad4723a382333cf2e19a29?sid=0fa1a9af-2dbd-4e69-ba6a-d15e6caf0a3d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>)
+<div>
+    <a href="https://www.loom.com/share/2bf98fe1b5ad4723a382333cf2e19a29">
+      <p>Project 1 - Globetrotter Providence recording - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2bf98fe1b5ad4723a382333cf2e19a29">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2bf98fe1b5ad4723a382333cf2e19a29-with-play.gif">
+    </a>
+  </div>
 ```
 
 ### Reflection
