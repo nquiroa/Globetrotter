@@ -4,9 +4,9 @@
 
 ## Unit 1 Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: Nathan Quiroa
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 9 hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
@@ -90,7 +90,8 @@ Reflecting on the demo, I effectively communicated my ideas and showcased the fu
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- W3schools
+- Stackoverflow
 
 ### Shout out
 
