@@ -65,7 +65,6 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-```
 <div>
     <a href="https://www.loom.com/share/2bf98fe1b5ad4723a382333cf2e19a29">
       <p>Project 1 - Globetrotter Providence recording - Watch Video</p>
@@ -74,7 +73,6 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2bf98fe1b5ad4723a382333cf2e19a29-with-play.gif">
     </a>
   </div>
-```
 
 ### Reflection
 
