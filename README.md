@@ -51,7 +51,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 - [ ] **Interactive Features**
   - Implement a dropdown menu in the navigation bar for additional categories or sub-pages.
 
-- [ ] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
+- [x] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
 
 - [ ] **Interactive Navigation**: Enhance the usability of your navigation bar.
   - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.
