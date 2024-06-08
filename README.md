@@ -67,21 +67,21 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-`ADD_EMBEDDED_CODE_HERE`
+(https://www.loom.com/share/2bf98fe1b5ad4723a382333cf2e19a29?sid=d102e3f8-43f9-4437-a73b-9abd4b25d2f8)
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The Topics discussed in my labs, specifically labs 3 and 4 were essential to my completion of the assignment. Personally I felt very prepared for each aspect of the assignment, a lot of the hard work that came from the assignment was the troubleshooting of media queries, resizing, formatting, etc.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time I would have definitely gone back to not only plan out my style.css file more, but also adding additional comments such as labeling specific aspects and containers. Another thing I would have like to done better if I had more time would be the spacing on smartphone devices and smaller screen sizes, as I had noticed while testing that as times elements such as my footer or items in a container would move irregularly (for example, on longer devices my footer would appear as if it were floating). 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Reflecting on the demo, I effectively communicated my ideas and showcased the functionality of the project. However, one area I noticed for improvement is maintaining high energy levels throughout the entire presentation. While I felt energized at the beginning, I noticed a slight dip towards the end, and I believe this may have impacted the overall impression. Moving forward, I'd like to explore ways to sustain energy levels throughout the entire presentation. One thing I noticed a peer doing effectively was incorporating periodic breaks or interactive elements to keep the audience engaged and re-energized. I think adopting a similar approach could help to maintain momentum and captivate the audience's attention from start to finish.
 
 ### Open-source libraries used
 
@@ -90,3 +90,5 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+Shoutout to Ahmed, Morgan and Larnelle for being a great help throughout the whole unit! As well as to Devarsh, he not only was a great instructor but also gave me very insightful feedback on both my presentation skills and project that I will definitely take and incorporate in the future.
